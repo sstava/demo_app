@@ -2,7 +2,7 @@
   <data-source source="LOCAL" name="Rails demo_app: production" product="" version="" jdbc-version="" driver-version="" uuid="f7456b9c-574f-4af9-bdf8-f2aa850574b0">
     <jdbc-driver>org.postgresql.Driver</jdbc-driver>
     <jdbc-url>jdbc:postgresql:demo_app_production</jdbc-url>
-    <user-name>demo_app</user-name>
+    <user-name>sstava</user-name>
     <libraries>
       <library>
         <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/postgresql-driver-license.txt</url>
@@ -15,7 +15,7 @@
   <data-source source="LOCAL" name="Rails demo_app: test" product="" version="" jdbc-version="" driver-version="" uuid="2480d34c-01cb-4b3c-93dd-799b79156835">
     <jdbc-driver>org.postgresql.Driver</jdbc-driver>
     <jdbc-url>jdbc:postgresql:demo_app_test</jdbc-url>
-    <user-name>demo_app</user-name>
+    <user-name>sstava</user-name>
     <libraries>
       <library>
         <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/postgresql-driver-license.txt</url>
@@ -28,7 +28,7 @@
   <data-source source="LOCAL" name="Rails demo_app: development" product="" version="" jdbc-version="" driver-version="" uuid="b42c3f77-3ab5-43e9-b08b-5d9306a11642">
     <jdbc-driver>org.postgresql.Driver</jdbc-driver>
     <jdbc-url>jdbc:postgresql:demo_app_development</jdbc-url>
-    <user-name>demo_app</user-name>
+    <user-name>sstava</user-name>
     <libraries>
       <library>
         <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/postgresql-driver-license.txt</url>
